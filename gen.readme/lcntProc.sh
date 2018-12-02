@@ -117,6 +117,14 @@ _CommentEnd_
 function examplesHookPost {
     cat  << _EOF_
 $( examplesSeperatorTopLabel "EXTENSION EXAMPLES" )
+ls -l ./githubReport.tex
+${G_myName} ${extraInfo} -i githubApisReportMohsen batch0 batch1
+${G_myName} ${extraInfo} -i githubApisReportMohsen batch2
+${G_myName} ${extraInfo} -i githubApisReportMohsen batch3
+${G_myName} ${extraInfo} -i githubApisReportMohsen batch4
+=== LaTeX To Markdown
+pandoc --from=latex -s -t rst --toc readme.ttytex -o README.rst
+pandoc --from=latex -s -t rst readme.ttytex -o README.rst
 _EOF_
 }
 
@@ -182,6 +190,67 @@ _EOF_
 
     lpReturn
 }
+
+
+
+_CommentBegin_
+*  [[elisp:(org-cycle)][| ]]  [[elisp:(blee:ppmm:org-mode-toggle)][Nat]] [[elisp:(beginning-of-buffer)][Top]] [[elisp:(delete-other-windows)][(1)]] || IIF       ::  vis_githubApisReportMohsen    [[elisp:(org-cycle)][| ]]
+_CommentEnd_
+
+function vis_githubApisReportMohsen {
+    G_funcEntry
+    function describeF {  cat  << _EOF_
+_EOF_
+		       }
+    EH_assert [[ $# -gt 0 ]]
+    
+
+    # githubApiAccess.py  -i listOrgsOfUsers https://api.github.com/users/mohsenBanan/orgs
+
+        function batch1 {  cat  << _EOF_
+https://api.github.com/orgs/ByStar
+https://api.github.com/orgs/bx-unisos
+https://api.github.com/orgs/bisos
+https://api.github.com/orgs/bx-blee
+https://api.github.com/orgs/bxGenesis
+_EOF_
+		       }
+
+
+        function batch2 {  cat  << _EOF_
+https://api.github.com/orgs/unisos-pip
+https://api.github.com/orgs/bisos-pip
+_EOF_
+		       }
+
+        function batch3 {  cat  << _EOF_
+https://api.github.com/orgs/roPerf-pip
+https://api.github.com/orgs/blee-pip
+_EOF_
+		       }
+
+	
+        function batch4 {  cat  << _EOF_
+https://api.github.com/orgs/efficientProtocols
+https://api.github.com/orgs/rePublication
+_EOF_
+			}
+
+	local eachBatch=""
+	local githubApiReports="/bisos/venv/dev-py2-bisos-3/bin/githubApiReports.py"
+
+	for eachBatch in $@; do
+	    if [ "${eachBatch}" == "batch0" ] ; then
+		lpDo cp /dev/null githubReport.tex
+		continue
+	    fi
+	    lpDo eval "${eachBatch} | xargs ${githubApiReports} -i reposOfOrgsReport |  tee -a githubReport.tex"
+	done
+	
+
+    lpReturn
+}
+
 
 
 _CommentBegin_
