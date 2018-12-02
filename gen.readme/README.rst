@@ -69,8 +69,7 @@ Repository: ByStar/overview
   `git@github.com:ByStar/overview.git <git@github.com:ByStar/overview.git>`__
 | HTML Url: https://github.com/ByStar/overview
 | GIT Url: git://github.com/ByStar/overview.git
-
-Repository Description: Overview Of ByStar
+| Repository Description: Overview Of ByStar
 
 Repository: ByStar/base
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,8 +78,7 @@ Repository: ByStar/base
   `git@github.com:ByStar/base.git <git@github.com:ByStar/base.git>`__
 | HTML Url: https://github.com/ByStar/base
 | GIT Url: git://github.com/ByStar/base.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Repository: ByStar/bxReposBase
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,8 +87,7 @@ Repository: ByStar/bxReposBase
   `git@github.com:ByStar/bxReposBase.git <git@github.com:ByStar/bxReposBase.git>`__
 | HTML Url: https://github.com/ByStar/bxReposBase
 | GIT Url: git://github.com/ByStar/bxReposBase.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Organization: bx-unisos
 -----------------------
@@ -107,8 +104,7 @@ Repository: bx-unisos/overview
   `git@github.com:bx-unisos/overview.git <git@github.com:bx-unisos/overview.git>`__
 | HTML Url: https://github.com/bx-unisos/overview
 | GIT Url: git://github.com/bx-unisos/overview.git
-
-Repository Description: On Unix Internet Services OS
+| Repository Description: On Unix Internet Services OS
 
 Repository: bx-unisos/base
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -117,8 +113,7 @@ Repository: bx-unisos/base
   `git@github.com:bx-unisos/base.git <git@github.com:bx-unisos/base.git>`__
 | HTML Url: https://github.com/bx-unisos/base
 | GIT Url: git://github.com/bx-unisos/base.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Organization: bisos
 -------------------
@@ -135,8 +130,7 @@ Repository: bisos/overview
   `git@github.com:bisos/overview.git <git@github.com:bisos/overview.git>`__
 | HTML Url: https://github.com/bisos/overview
 | GIT Url: git://github.com/bisos/overview.git
-
-Repository Description: ByStar Internet Services Operating System
+| Repository Description: ByStar Internet Services Operating System
 
 Repository: bisos/base
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -145,8 +139,7 @@ Repository: bisos/base
   `git@github.com:bisos/base.git <git@github.com:bisos/base.git>`__
 | HTML Url: https://github.com/bisos/base
 | GIT Url: git://github.com/bisos/base.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Organization: bx-blee
 ---------------------
@@ -163,8 +156,7 @@ Repository: bx-blee/overview
   `git@github.com:bx-blee/overview.git <git@github.com:bx-blee/overview.git>`__
 | HTML Url: https://github.com/bx-blee/overview
 | GIT Url: git://github.com/bx-blee/overview.git
-
-Repository Description: ByStar Libre-Halaal Emacs Environment (BLEE)
+| Repository Description: ByStar Libre-Halaal Emacs Environment (BLEE)
 
 Repository: bx-blee/base
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -173,8 +165,7 @@ Repository: bx-blee/base
   `git@github.com:bx-blee/base.git <git@github.com:bx-blee/base.git>`__
 | HTML Url: https://github.com/bx-blee/base
 | GIT Url: git://github.com/bx-blee/base.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Organization: bxGenesis
 -----------------------
@@ -190,8 +181,7 @@ Repository: bxGenesis/overview
   `git@github.com:bxGenesis/overview.git <git@github.com:bxGenesis/overview.git>`__
 | HTML Url: https://github.com/bxGenesis/overview
 | GIT Url: git://github.com/bxGenesis/overview.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Repository: bxGenesis/vagrantBue
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -200,8 +190,7 @@ Repository: bxGenesis/vagrantBue
   `git@github.com:bxGenesis/vagrantBue.git <git@github.com:bxGenesis/vagrantBue.git>`__
 | HTML Url: https://github.com/bxGenesis/vagrantBue
 | GIT Url: git://github.com/bxGenesis/vagrantBue.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Repository: bxGenesis/vagrants
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -210,8 +199,7 @@ Repository: bxGenesis/vagrants
   `git@github.com:bxGenesis/vagrants.git <git@github.com:bxGenesis/vagrants.git>`__
 | HTML Url: https://github.com/bxGenesis/vagrants
 | GIT Url: git://github.com/bxGenesis/vagrants.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Repository: bxGenesis/base
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -220,8 +208,7 @@ Repository: bxGenesis/base
   `git@github.com:bxGenesis/base.git <git@github.com:bxGenesis/base.git>`__
 | HTML Url: https://github.com/bxGenesis/base
 | GIT Url: git://github.com/bxGenesis/base.git
-
-Repository Description: Empty-For-Now
+| Repository Description: Empty-For-Now
 
 Repository: bxGenesis/fbxoPkgs
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -230,8 +217,7 @@ Repository: bxGenesis/fbxoPkgs
   `git@github.com:bxGenesis/fbxoPkgs.git <git@github.com:bxGenesis/fbxoPkgs.git>`__
 | HTML Url: https://github.com/bxGenesis/fbxoPkgs
 | GIT Url: git://github.com/bxGenesis/fbxoPkgs.git
-
-Repository Description: Install Foreign ByStar Object Packages.
+| Repository Description: Install Foreign ByStar Object Packages.
 
 Organization: unisos-pip
 ------------------------
@@ -244,102 +230,92 @@ Digital Ecosystem
 Repository: unisos-pip/overview
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/overview.git <git@github.com:unisos-pip/overview.git>`__\ HTML
-Url: https://github.com/unisos-pip/overview\ GIT Url:
-git://github.com/unisos-pip/overview.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/overview.git <git@github.com:unisos-pip/overview.git>`__
+| HTML Url: https://github.com/unisos-pip/overview
+| GIT Url: git://github.com/unisos-pip/overview.git
+| Repository Description: Empty-For-Now
 
 Repository: unisos-pip/icm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/icm.git <git@github.com:unisos-pip/icm.git>`__\ HTML
-Url: https://github.com/unisos-pip/icm\ GIT Url:
-git://github.com/unisos-pip/icm.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/icm.git <git@github.com:unisos-pip/icm.git>`__
+| HTML Url: https://github.com/unisos-pip/icm
+| GIT Url: git://github.com/unisos-pip/icm.git
+| Repository Description: Empty-For-Now
 
 Repository: unisos-pip/namespace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/namespace.git <git@github.com:unisos-pip/namespace.git>`__\ HTML
-Url: https://github.com/unisos-pip/namespace\ GIT Url:
-git://github.com/unisos-pip/namespace.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/namespace.git <git@github.com:unisos-pip/namespace.git>`__
+| HTML Url: https://github.com/unisos-pip/namespace
+| GIT Url: git://github.com/unisos-pip/namespace.git
+| Repository Description: Empty-For-Now
 
 Repository: unisos-pip/common
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/common.git <git@github.com:unisos-pip/common.git>`__\ HTML
-Url: https://github.com/unisos-pip/common\ GIT Url:
-git://github.com/unisos-pip/common.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/common.git <git@github.com:unisos-pip/common.git>`__
+| HTML Url: https://github.com/unisos-pip/common
+| GIT Url: git://github.com/unisos-pip/common.git
+| Repository Description: Empty-For-Now
 
 Repository: unisos-pip/icmExamples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/icmExamples.git <git@github.com:unisos-pip/icmExamples.git>`__\ HTML
-Url: https://github.com/unisos-pip/icmExamples\ GIT Url:
-git://github.com/unisos-pip/icmExamples.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/icmExamples.git <git@github.com:unisos-pip/icmExamples.git>`__
+| HTML Url: https://github.com/unisos-pip/icmExamples
+| GIT Url: git://github.com/unisos-pip/icmExamples.git
+| Repository Description: Empty-For-Now
 
 Repository: unisos-pip/x822Msg
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/x822Msg.git <git@github.com:unisos-pip/x822Msg.git>`__\ HTML
-Url: https://github.com/unisos-pip/x822Msg\ GIT Url:
-git://github.com/unisos-pip/x822Msg.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/x822Msg.git <git@github.com:unisos-pip/x822Msg.git>`__
+| HTML Url: https://github.com/unisos-pip/x822Msg
+| GIT Url: git://github.com/unisos-pip/x822Msg.git
+| Repository Description: Empty-For-Now
 
 Repository: unisos-pip/ucf
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/ucf.git <git@github.com:unisos-pip/ucf.git>`__\ HTML
-Url: https://github.com/unisos-pip/ucf\ GIT Url:
-git://github.com/unisos-pip/ucf.git
-
-Repository Description: Unisos Common Facilities (unisos.ucf)
+| SSH Url:
+  `git@github.com:unisos-pip/ucf.git <git@github.com:unisos-pip/ucf.git>`__
+| HTML Url: https://github.com/unisos-pip/ucf
+| GIT Url: git://github.com/unisos-pip/ucf.git
+| Repository Description: Unisos Common Facilities (unisos.ucf)
 
 Repository: unisos-pip/base
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/base.git <git@github.com:unisos-pip/base.git>`__\ HTML
-Url: https://github.com/unisos-pip/base\ GIT Url:
-git://github.com/unisos-pip/base.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/base.git <git@github.com:unisos-pip/base.git>`__
+| HTML Url: https://github.com/unisos-pip/base
+| GIT Url: git://github.com/unisos-pip/base.git
+| Repository Description: Empty-For-Now
 
 Repository: unisos-pip/utils
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/utils.git <git@github.com:unisos-pip/utils.git>`__\ HTML
-Url: https://github.com/unisos-pip/utils\ GIT Url:
-git://github.com/unisos-pip/utils.git
-
-Repository Description: General Purpose Utilities At Unisos Layer.
+| SSH Url:
+  `git@github.com:unisos-pip/utils.git <git@github.com:unisos-pip/utils.git>`__
+| HTML Url: https://github.com/unisos-pip/utils
+| GIT Url: git://github.com/unisos-pip/utils.git
+| Repository Description: General Purpose Utilities At Unisos Layer.
 
 Repository: unisos-pip/githubApi
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:unisos-pip/githubApi.git <git@github.com:unisos-pip/githubApi.git>`__\ HTML
-Url: https://github.com/unisos-pip/githubApi\ GIT Url:
-git://github.com/unisos-pip/githubApi.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:unisos-pip/githubApi.git <git@github.com:unisos-pip/githubApi.git>`__
+| HTML Url: https://github.com/unisos-pip/githubApi
+| GIT Url: git://github.com/unisos-pip/githubApi.git
+| Repository Description: Empty-For-Now
 
 Organization: bisos-pip
 -----------------------
@@ -351,170 +327,188 @@ Github Organization Description: Empty-At-This-Time
 Repository: bisos-pip/overview
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/overview.git <git@github.com:bisos-pip/overview.git>`__\ HTML
-Url: https://github.com/bisos-pip/overview\ GIT Url:
-git://github.com/bisos-pip/overview.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/overview.git <git@github.com:bisos-pip/overview.git>`__
+| HTML Url: https://github.com/bisos-pip/overview
+| GIT Url: git://github.com/bisos-pip/overview.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/bootstrap
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/bootstrap.git <git@github.com:bisos-pip/bootstrap.git>`__\ HTML
-Url: https://github.com/bisos-pip/bootstrap\ GIT Url:
-git://github.com/bisos-pip/bootstrap.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/bootstrap.git <git@github.com:bisos-pip/bootstrap.git>`__
+| HTML Url: https://github.com/bisos-pip/bootstrap
+| GIT Url: git://github.com/bisos-pip/bootstrap.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/bx-bases
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/bx-bases.git <git@github.com:bisos-pip/bx-bases.git>`__\ HTML
-Url: https://github.com/bisos-pip/bx-bases\ GIT Url:
-git://github.com/bisos-pip/bx-bases.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/bx-bases.git <git@github.com:bisos-pip/bx-bases.git>`__
+| HTML Url: https://github.com/bisos-pip/bx-bases
+| GIT Url: git://github.com/bisos-pip/bx-bases.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/common
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/common.git <git@github.com:bisos-pip/common.git>`__\ HTML
-Url: https://github.com/bisos-pip/common\ GIT Url:
-git://github.com/bisos-pip/common.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/common.git <git@github.com:bisos-pip/common.git>`__
+| HTML Url: https://github.com/bisos-pip/common
+| GIT Url: git://github.com/bisos-pip/common.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/core
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/core.git <git@github.com:bisos-pip/core.git>`__\ HTML
-Url: https://github.com/bisos-pip/core\ GIT Url:
-git://github.com/bisos-pip/core.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/core.git <git@github.com:bisos-pip/core.git>`__
+| HTML Url: https://github.com/bisos-pip/core
+| GIT Url: git://github.com/bisos-pip/core.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/currents
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/currents.git <git@github.com:bisos-pip/currents.git>`__\ HTML
-Url: https://github.com/bisos-pip/currents\ GIT Url:
-git://github.com/bisos-pip/currents.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/currents.git <git@github.com:bisos-pip/currents.git>`__
+| HTML Url: https://github.com/bisos-pip/currents
+| GIT Url: git://github.com/bisos-pip/currents.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/examples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/examples.git <git@github.com:bisos-pip/examples.git>`__\ HTML
-Url: https://github.com/bisos-pip/examples\ GIT Url:
-git://github.com/bisos-pip/examples.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/examples.git <git@github.com:bisos-pip/examples.git>`__
+| HTML Url: https://github.com/bisos-pip/examples
+| GIT Url: git://github.com/bisos-pip/examples.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/full
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/full.git <git@github.com:bisos-pip/full.git>`__\ HTML
-Url: https://github.com/bisos-pip/full\ GIT Url:
-git://github.com/bisos-pip/full.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/full.git <git@github.com:bisos-pip/full.git>`__
+| HTML Url: https://github.com/bisos-pip/full
+| GIT Url: git://github.com/bisos-pip/full.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/gossonot
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/gossonot.git <git@github.com:bisos-pip/gossonot.git>`__\ HTML
-Url: https://github.com/bisos-pip/gossonot\ GIT Url:
-git://github.com/bisos-pip/gossonot.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/gossonot.git <git@github.com:bisos-pip/gossonot.git>`__
+| HTML Url: https://github.com/bisos-pip/gossonot
+| GIT Url: git://github.com/bisos-pip/gossonot.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/lcnt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/lcnt.git <git@github.com:bisos-pip/lcnt.git>`__\ HTML
-Url: https://github.com/bisos-pip/lcnt\ GIT Url:
-git://github.com/bisos-pip/lcnt.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/lcnt.git <git@github.com:bisos-pip/lcnt.git>`__
+| HTML Url: https://github.com/bisos-pip/lcnt
+| GIT Url: git://github.com/bisos-pip/lcnt.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/namespace
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/namespace.git <git@github.com:bisos-pip/namespace.git>`__\ HTML
-Url: https://github.com/bisos-pip/namespace\ GIT Url:
-git://github.com/bisos-pip/namespace.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/namespace.git <git@github.com:bisos-pip/namespace.git>`__
+| HTML Url: https://github.com/bisos-pip/namespace
+| GIT Url: git://github.com/bisos-pip/namespace.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/platform
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/platform.git <git@github.com:bisos-pip/platform.git>`__\ HTML
-Url: https://github.com/bisos-pip/platform\ GIT Url:
-git://github.com/bisos-pip/platform.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/platform.git <git@github.com:bisos-pip/platform.git>`__
+| HTML Url: https://github.com/bisos-pip/platform
+| GIT Url: git://github.com/bisos-pip/platform.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/things
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/things.git <git@github.com:bisos-pip/things.git>`__\ HTML
-Url: https://github.com/bisos-pip/things\ GIT Url:
-git://github.com/bisos-pip/things.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/things.git <git@github.com:bisos-pip/things.git>`__
+| HTML Url: https://github.com/bisos-pip/things
+| GIT Url: git://github.com/bisos-pip/things.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/marme
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/marme.git <git@github.com:bisos-pip/marme.git>`__\ HTML
-Url: https://github.com/bisos-pip/marme\ GIT Url:
-git://github.com/bisos-pip/marme.git
-
-Repository Description: Multi-Account Resident Mail Exchane Environment
-(MARMEE)
+| SSH Url:
+  `git@github.com:bisos-pip/marme.git <git@github.com:bisos-pip/marme.git>`__
+| HTML Url: https://github.com/bisos-pip/marme
+| GIT Url: git://github.com/bisos-pip/marme.git
+| Repository Description: Multi-Account Resident Mail Exchane
+  Environment (MARMEE)
 
 Repository: bisos-pip/mmwsIcm
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/mmwsIcm.git <git@github.com:bisos-pip/mmwsIcm.git>`__\ HTML
-Url: https://github.com/bisos-pip/mmwsIcm\ GIT Url:
-git://github.com/bisos-pip/mmwsIcm.git
-
-Repository Description: Web Services Interactive Command Module (wsIcm)
+| SSH Url:
+  `git@github.com:bisos-pip/mmwsIcm.git <git@github.com:bisos-pip/mmwsIcm.git>`__
+| HTML Url: https://github.com/bisos-pip/mmwsIcm
+| GIT Url: git://github.com/bisos-pip/mmwsIcm.git
+| Repository Description: Web Services Interactive Command Module
+  (wsIcm)
 
 Repository: bisos-pip/coreDist
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/coreDist.git <git@github.com:bisos-pip/coreDist.git>`__\ HTML
-Url: https://github.com/bisos-pip/coreDist\ GIT Url:
-git://github.com/bisos-pip/coreDist.git
-
-Repository Description: Empty-For-Now
+| SSH Url:
+  `git@github.com:bisos-pip/coreDist.git <git@github.com:bisos-pip/coreDist.git>`__
+| HTML Url: https://github.com/bisos-pip/coreDist
+| GIT Url: git://github.com/bisos-pip/coreDist.git
+| Repository Description: Empty-For-Now
 
 Repository: bisos-pip/base
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SSH Url:
-`git@github.com:bisos-pip/base.git <git@github.com:bisos-pip/base.git>`__\ HTML
-Url: https://github.com/bisos-pip/base\ GIT Url:
-git://github.com/bisos-pip/base.git
+| SSH Url:
+  `git@github.com:bisos-pip/base.git <git@github.com:bisos-pip/base.git>`__
+| HTML Url: https://github.com/bisos-pip/base
+| GIT Url: git://github.com/bisos-pip/base.git
+| Repository Description: Empty-For-Now
 
-Repository Description: Empty-For-Now
+Organization: roPerf-pip
+------------------------
+
+https://github.com/roPerf-pip
+
+Github Organization Description: Empty-At-This-Time
+
+Repository: roPerf-pip/overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:roPerf-pip/overview.git <git@github.com:roPerf-pip/overview.git>`__
+| HTML Url: https://github.com/roPerf-pip/overview
+| GIT Url: git://github.com/roPerf-pip/overview.git
+| Repository Description: Empty-For-Now
+
+Repository: roPerf-pip/namespace
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:roPerf-pip/namespace.git <git@github.com:roPerf-pip/namespace.git>`__
+| HTML Url: https://github.com/roPerf-pip/namespace
+| GIT Url: git://github.com/roPerf-pip/namespace.git
+| Repository Description: Empty-For-Now
+
+Repository: roPerf-pip/bearerTokenExample
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:roPerf-pip/bearerTokenExample.git <git@github.com:roPerf-pip/bearerTokenExample.git>`__
+| HTML Url: https://github.com/roPerf-pip/bearerTokenExample
+| GIT Url: git://github.com/roPerf-pip/bearerTokenExample.git
+| Repository Description: Empty-For-Now
