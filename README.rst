@@ -1,3 +1,13 @@
+
+Structure Of Our Repositories
+=============================
+
+Our Git repositories here are structured as “GitHub Organizations”. To
+us, GitHub organizations are simply collections of repos. For example,
+BISOS Organization includes repos related to BISOS. This ReposOverview
+describes the structure of the organizations.
+
+
 .. contents::
    :depth: 3
 ..
