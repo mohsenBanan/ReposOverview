@@ -22,8 +22,8 @@ http://mohsen.1.banan.byname.net/contact.
 Mohsen is the primary architect of ByStar software and internet
 services.
 
-About ByStar
-============
+About ByStar: The Libre-Halaal ByStar Digital Ecosystem
+=======================================================
 
 The Libre-Halaal ByStar Digital Ecosystem is an autonomy and privacy
 oriented digital ecosystem that is built on purely open-source and free
@@ -48,11 +48,14 @@ About Blee: Bystar Libre-halaal Emacs Environment
 Blee: Bystar Libre-halaal Emacs Environment is the usage layer of
 ByStar.
 
-Machine Generated List And Description Of Organizatoins And Repositories
+Machine Generated List And Description Of Organizations And Repositories
 ========================================================================
 
 The following sections enumerate all of ByStar related
 github-organizations and repositories.
+
+The information below is machine generated using unisos.githubApi pip
+package – available at: https://github.com/unisos-pip/githubApi
 
 Organization: ByStar
 --------------------
@@ -511,4 +514,181 @@ Repository: roPerf-pip/bearerTokenExample
   `git@github.com:roPerf-pip/bearerTokenExample.git <git@github.com:roPerf-pip/bearerTokenExample.git>`__
 | HTML Url: https://github.com/roPerf-pip/bearerTokenExample
 | GIT Url: git://github.com/roPerf-pip/bearerTokenExample.git
+| Repository Description: Empty-For-Now
+
+Organization: roPerf-pip
+------------------------
+
+https://github.com/roPerf-pip
+
+Github Organization Description: Empty-At-This-Time
+
+Repository: roPerf-pip/overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:roPerf-pip/overview.git <git@github.com:roPerf-pip/overview.git>`__
+| HTML Url: https://github.com/roPerf-pip/overview
+| GIT Url: git://github.com/roPerf-pip/overview.git
+| Repository Description: Empty-For-Now
+
+Repository: roPerf-pip/namespace
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:roPerf-pip/namespace.git <git@github.com:roPerf-pip/namespace.git>`__
+| HTML Url: https://github.com/roPerf-pip/namespace
+| GIT Url: git://github.com/roPerf-pip/namespace.git
+| Repository Description: Empty-For-Now
+
+Repository: roPerf-pip/bearerTokenExample
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:roPerf-pip/bearerTokenExample.git <git@github.com:roPerf-pip/bearerTokenExample.git>`__
+| HTML Url: https://github.com/roPerf-pip/bearerTokenExample
+| GIT Url: git://github.com/roPerf-pip/bearerTokenExample.git
+| Repository Description: Empty-For-Now
+
+Repository: roPerf-pip/base
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:roPerf-pip/base.git <git@github.com:roPerf-pip/base.git>`__
+| HTML Url: https://github.com/roPerf-pip/base
+| GIT Url: git://github.com/roPerf-pip/base.git
+| Repository Description: Empty-For-Now
+
+Organization: blee-pip
+----------------------
+
+https://github.com/blee-pip
+
+Github Organization Description: blee-pip pkgs: Blee is a Emacs Based
+User Environment that creates a softwate-service continuum between BISOS
+and Bystar Autonomous Services
+
+Repository: blee-pip/overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:blee-pip/overview.git <git@github.com:blee-pip/overview.git>`__
+| HTML Url: https://github.com/blee-pip/overview
+| GIT Url: git://github.com/blee-pip/overview.git
+| Repository Description: Empty-For-Now
+
+Repository: blee-pip/namespace
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:blee-pip/namespace.git <git@github.com:blee-pip/namespace.git>`__
+| HTML Url: https://github.com/blee-pip/namespace
+| GIT Url: git://github.com/blee-pip/namespace.git
+| Repository Description: Empty-For-Now
+
+Repository: blee-pip/icmPlayer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:blee-pip/icmPlayer.git <git@github.com:blee-pip/icmPlayer.git>`__
+| HTML Url: https://github.com/blee-pip/icmPlayer
+| GIT Url: git://github.com/blee-pip/icmPlayer.git
+| Repository Description: Empty-For-Now
+
+Repository: blee-pip/elispDist
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:blee-pip/elispDist.git <git@github.com:blee-pip/elispDist.git>`__
+| HTML Url: https://github.com/blee-pip/elispDist
+| GIT Url: git://github.com/blee-pip/elispDist.git
+| Repository Description: Empty-For-Now
+
+Repository: blee-pip/base
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:blee-pip/base.git <git@github.com:blee-pip/base.git>`__
+| HTML Url: https://github.com/blee-pip/base
+| GIT Url: git://github.com/blee-pip/base.git
+| Repository Description: Empty-For-Now
+
+Organization: efficientProtocols
+--------------------------------
+
+https://github.com/efficientProtocols
+
+Github Organization Description: Light Efficient Application Protocols
+(LEAP) For low-powered long-thin-pipes
+
+Repository: efficientProtocols/overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:efficientProtocols/overview.git <git@github.com:efficientProtocols/overview.git>`__
+| HTML Url: https://github.com/efficientProtocols/overview
+| GIT Url: git://github.com/efficientProtocols/overview.git
+| Repository Description: Empty-For-Now
+
+Repository: efficientProtocols/OCP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:efficientProtocols/OCP.git <git@github.com:efficientProtocols/OCP.git>`__
+| HTML Url: https://github.com/efficientProtocols/OCP
+| GIT Url: git://github.com/efficientProtocols/OCP.git
+| Repository Description: Open C Platform
+
+Repository: efficientProtocols/ESRO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:efficientProtocols/ESRO.git <git@github.com:efficientProtocols/ESRO.git>`__
+| HTML Url: https://github.com/efficientProtocols/ESRO
+| GIT Url: git://github.com/efficientProtocols/ESRO.git
+| Repository Description: Efficient Short Remote Operations – Reference
+  Implementation Of RFC-2188
+
+Repository: efficientProtocols/EMSD
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:efficientProtocols/EMSD.git <git@github.com:efficientProtocols/EMSD.git>`__
+| HTML Url: https://github.com/efficientProtocols/EMSD
+| GIT Url: git://github.com/efficientProtocols/EMSD.git
+| Repository Description: Efficient Mail Submission And Delivery (EMSD)
+  – Reference Implementation of RFC-2524
+
+Repository: efficientProtocols/base
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:efficientProtocols/base.git <git@github.com:efficientProtocols/base.git>`__
+| HTML Url: https://github.com/efficientProtocols/base
+| GIT Url: git://github.com/efficientProtocols/base.git
+| Repository Description: Empty-For-Now
+
+Organization: rePublication
+---------------------------
+
+https://github.com/rePublication
+
+Github Organization Description: Empty-At-This-Time
+
+Repository: rePublication/overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:rePublication/overview.git <git@github.com:rePublication/overview.git>`__
+| HTML Url: https://github.com/rePublication/overview
+| GIT Url: git://github.com/rePublication/overview.git
+| Repository Description: Empty-For-Now
+
+Repository: rePublication/base
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+| SSH Url:
+  `git@github.com:rePublication/base.git <git@github.com:rePublication/base.git>`__
+| HTML Url: https://github.com/rePublication/base
+| GIT Url: git://github.com/rePublication/base.git
 | Repository Description: Empty-For-Now
